@@ -1,0 +1,16 @@
+I1,I2,I3,I4,I5,I6,e-top,e-jg,e-mid,e-bot,e-sup,result,minutes
+STR,STE,DMP,MR,BG,n,teemo,taliyah,anivia,samira,nautilus,loss,34
+STR,MR,SER,BG,n,n,graves,udyr,kalista,vayne,zilean,win,26
+STR,DMP,STE,n,n,n,jax,reksai,katarina,kogmaw,morgana,loss,23
+STR,DMP,BG,n,n,n,teemo,ekko,zed,ezreal,morgana,loss,33
+STR,DMP,STE,BG,n,n,vayne,rengar,ahri,jhin,brand,win,30
+STR,DMP,BG,n,n,n,sylas,darius,viktor,tristana,kaisa,win,25
+STR,DMP,STE,BG,n,n,darius,nocturne,veigar,lucian,leona,win,27
+STR,MR,DMP,BG,n,n,irelia,graves,kassadin,ezreal,yuumi,win,23
+STR,MR,BG,n,n,n,yasuo,diana,kennen,jhin,yuumi,loss,28
+STR,BG,n,n,n,n,aatrox,vi,corki,kaisa,sona,loss,22
+STR,DMP,BG,n,n,n,graves,shyvana,vex,jhin,bard,loss,26
+STR,HB,MR,BG,n,n,mordekaiser,sejuani,ryze,kaisa,morgana,win,28
+STR,DMP,BG,n,n,n,riven,karthus,qiyana,caitlyn,ziggs,win,24
+STR,FON,HB,DMP,BG,n,singed,talon,fizz,ashe,nautilus,loss,35
+STR,MR,HB,BG,n,n,shen,kayn,kassadin,xayah,nami,loss,24
